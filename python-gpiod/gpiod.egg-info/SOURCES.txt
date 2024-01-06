@@ -1,0 +1,16 @@
+COPYING
+MANIFEST.in
+README.md
+setup.py
+gpiod/core.c
+gpiod/ctxless.c
+gpiod/gpiod.h
+gpiod/gpiodmodule.c
+gpiod/helpers.c
+gpiod/iter.c
+gpiod/misc.c
+gpiod.egg-info/PKG-INFO
+gpiod.egg-info/SOURCES.txt
+gpiod.egg-info/dependency_links.txt
+gpiod.egg-info/top_level.txt
+gpiod/linux/gpio.h
